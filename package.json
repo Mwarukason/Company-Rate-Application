@@ -1,0 +1,22 @@
+{
+  "name": "company-rate-application",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mwarukason/Company-Rate-Application.git"
+  },
+  "author": "Amri Shabani Mwaruka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mwarukason/Company-Rate-Application/issues"
+  },
+  "homepage": "https://github.com/Mwarukason/Company-Rate-Application#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
